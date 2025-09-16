@@ -1,0 +1,17 @@
+We are looking for a skilled Python Developer responsible for developing, testing, and maintaining scalable applications. The candidate should have strong expertise in Python frameworks and a good understanding of APIs, databases, and modern software development practices.
+
+Responsibilities:
+
+Write clean, efficient, and reusable Python code.
+Develop backend components, REST APIs, and integrate third-party services.
+Work with relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
+Troubleshoot, debug, and upgrade existing applications.
+Collaborate with front-end developers, data scientists, and DevOps teams.
+Implement best practices in code quality, testing, and security.
+
+Skills Required:
+Strong knowledge of Python and frameworks (Django, Flask, FastAPI).
+Experience with REST APIs, Git, and cloud platforms (AWS, Azure, GCP).
+Knowledge of databases and ORM libraries (SQLAlchemy, Django ORM).
+Understanding of Docker, CI/CD pipelines, and Agile methodology.
+Problem-solving and debugging skills.
