@@ -23,7 +23,9 @@ A **web-based application** that matches candidate resumes with job descriptions
 - **Hosting:** PythonAnywhere / any Flask-supported platform
 
 ---
-
+##sample
+for visiting the website click on below link
+https://resume-checker-znt5.onrender.com/
 ## 🚀 Installation & Setup
 
 1. **Clone the repository:**  
